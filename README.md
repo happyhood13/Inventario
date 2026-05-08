@@ -1,5 +1,10 @@
 # Inventario
+Extraer archivos primero***
+
+
 Mi Sistema de Gestión de Inventario
+
+
 ¡Hola! Bienvenido a la documentación de mi sistema de inventario. Diseñé este programa para llevar un control físico detallado y ordenado de los activos y equipos dentro de una institución. A continuación, te explico cómo funciona y cómo debes utilizarlo.
 
 🔐 Acceso al Sistema (Perfil Profesor)
